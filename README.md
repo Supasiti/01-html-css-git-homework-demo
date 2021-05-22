@@ -1,4 +1,4 @@
-# 01-html-css-git-homework-demo
+# 01-html-css-web-demo
 
 ## Task
 
