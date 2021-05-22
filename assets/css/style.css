@@ -7,8 +7,9 @@
 body {
     background-color: #d9dcd6;
 }
+/* --------- */
+/*   Header  */
 
-/* Header  */
 .header {
     display: block;
 }
@@ -52,8 +53,9 @@ nav ul li {
     margin-left: 25px;
 }
 
+/* ----------- */
+/*  utilities  */
 
-/* utilities */
 a {
     color: #ffffff;
     text-decoration: none;
@@ -87,10 +89,15 @@ h3 {
     margin-left: 25px;
 }
 
-/* Main */
+/* ---------- */
+/*    Main    */
+
 .page-content {
     margin-top: 96px;  /* so that the content sits below the navigation bar */
 }
+
+/* ---------- */
+/* Top banner */
 
 .top-banner {
     height: 800px;
@@ -104,13 +111,16 @@ h3 {
     object-fit: cover;
 }
 
+/* --------------- */
 /* Content section */
+
 #content {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
+/* anchor for the in page link */
 .anchor {
     position: relative;
 }
@@ -134,7 +144,9 @@ h3 {
     max-height: 200px;
 }
 
+/* ---------------- */
 /* Benefits section */
+
 #benefits {
     margin-right: 20px;
     padding: 20px;
@@ -161,7 +173,9 @@ h3 {
     max-width: 150px;
 }
 
-/*  Footer */
+/* --------- */
+/*   Footer  */
+
 .footer {
     padding: 30px;
     clear: both;
