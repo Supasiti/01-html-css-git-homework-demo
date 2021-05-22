@@ -44,6 +44,7 @@ The end product should resemble the mock-up provided below:
 To use this project, first clone the repo on your device using the command below:
 
     git init
+
     git clone https://github.com/Supasiti/01-html-css-git-homework-demo.git
 
 
