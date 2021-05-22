@@ -35,22 +35,17 @@ The end product should resemble the mock-up provided below:
 
 ![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images at the bottom of the page.](./assets/demo/screenshot.png)
 
+> **Note:** This layout may not rendered as shown above if the resolution is below 1028px.  
 
-
-
-## Table of Contents (Optional)
-
-If your README is long, add a table of contents to make it easy for users to find what they need.
-- [Installation](#installation)
-- [Usage](#usage)
 
 ## Installation
-What are the steps required to install your project? Provide a step-by-step description of how to get the development environment running.
+[(Back to top)](#task)
+
+To use this project, first clone the repo on your device using the command below:
+
+    git init
+    git clone https://github.com/Supasiti/01-html-css-git-homework-demo.git
+
 
 ## Usage
-Provide instructions and examples for use. Include screenshots as needed.
-To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
-    
-    ```md
-    ![alt text](assets/images/screenshot.png)
-    ```
+The final webpage can be accessed through the following [link](https://supasiti.github.io/01-html-css-git-homework-demo/).
