@@ -29,6 +29,18 @@ WHEN I view the title element
 THEN I find a concise, descriptive title
 ```
 
+### Implementation
+
+To meet all the acceptance criteria above, the following refactoring and design principles were considered:
+- Appropriate semantic HTML elements were used to create more clarity in the code;
+- `style.css` was organised to follow semanture structure;
+- Comments were added, where appropriate to improve readability;
+- Duplicate styling were consolidated in order to reduce a future risk of editing errors;
+- Broken links were fixed;
+- An appropriate title was added;
+- The navigation bar was fixed to the top the page to improve the ease of navigation;
+- Accessible alt attributes were added to all images to improve user accessibility.
+
 ### Preview
 
 The end product should resemble the mock-up provided below:
@@ -41,12 +53,15 @@ The end product should resemble the mock-up provided below:
 ## Installation
 [(Back to top)](#task)
 
-To use this project, first clone the repo on your device using the command below:
+To use this project, first clone the repo on your device using the commands below:
 
     git init
-
     git clone https://github.com/Supasiti/01-html-css-git-homework-demo.git
 
 
 ## Usage
+[(Back to top)](#task)
+
 The final webpage can be accessed through the following [link](https://supasiti.github.io/01-html-css-git-homework-demo/).
+
+
