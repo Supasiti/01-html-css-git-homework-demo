@@ -56,12 +56,12 @@ The end product should resemble the mock-up provided below:
 To use this project, first clone the repo on your device using the commands below:
 
     git init
-    git clone https://github.com/Supasiti/01-html-css-git-homework-demo.git
+    git clone https://github.com/Supasiti/01-html-css-web-demo.git
 
 
 ## Usage
 [(Back to top)](#task)
 
-The final webpage can be accessed through the following [link](https://supasiti.github.io/01-html-css-git-homework-demo/).
+The final webpage can be accessed through the following [link](https://supasiti.github.io/01-html-css-web-demo/).
 
 
